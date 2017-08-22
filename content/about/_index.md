@@ -1,16 +1,10 @@
 +++
-date = "2017-06-27T11:32:00+02:00"
+date = "2017-08-23T00:49:00+02:00"
 title = "About"
 hidden = true
 menu = "main"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Hello, I'm a student of information and communication systems at the university of chemnitz. I would like to share some experience reports with the world around me.
 
 ***
-
-### Lorem ipsum dolor.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
