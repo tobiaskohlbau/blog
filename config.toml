@@ -11,7 +11,7 @@ disqusShortname = "tobiaskohlbau"
 [params]
 	name = "Tobias Kohlbau"
 	description = "Blog"
-	bio = "Student & Blogger with proclivity for technical stuff"
+	bio = "Software engineer and hardware enthusiast"
 	# Enter optionally your twitter account
 	twitter = "toktech"
 	enableRSS = true
