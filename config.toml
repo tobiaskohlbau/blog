@@ -13,7 +13,7 @@ disqusShortname = "tobiaskohlbau"
 	description = "Blog"
 	bio = "Software engineer and hardware enthusiast"
 	# Enter optionally your twitter account
-	twitter = "toktech"
+	twitter = "tobiaskohlbau"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
