@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://blog.kohlbau.com/"
+baseurl = "https://kohlbau.dev"
 languageCode = "en-us"
 title = "Tobias Kohlbau"
 theme = "hugo-cactus-theme"
